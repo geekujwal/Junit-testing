@@ -1,2 +1,2 @@
 This project contains basic unit testing in Java. To learn more about Junit
-[click here](https://junit.org/junit5/)
+[click here](https://junit.org/junit5/docs/current/user-guide/)
